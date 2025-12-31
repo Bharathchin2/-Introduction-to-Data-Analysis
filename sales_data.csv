@@ -1,0 +1,11 @@
+Order_ID,Product,Quantity,Price,Total_Sales
+1,Laptop,2,50000,100000
+2,Mobile,5,15000,75000
+3,Tablet,3,20000,60000
+4,Laptop,1,50000,50000
+5,Headphones,10,2000,20000
+6,Mobile,,15000,
+7,Tablet,2,20000,40000
+8,Headphones,5,2000,10000
+9,Laptop,3,50000,150000
+10,Mobile,4,15000,60000
